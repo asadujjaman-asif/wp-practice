@@ -16,7 +16,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-asas
+                <a href="">
+                    <img src="<?php echo get_theme_mod('themeLogo');?>" alt="" />
+                </a>
             </div>
             <div class="col-md-9">
 aasa
